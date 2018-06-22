@@ -1,0 +1,62 @@
+{
+  "10000" : {
+    "name" : "Яблоки",
+    "cost" : 25,
+    "description" : "Вкусные, спелые, сочные",
+    "image" : "images/apples.png"
+  },
+  "10010" : {
+    "name" : "Апельсины",
+    "cost" : 35,
+    "description" : "Сладкие, свежие",
+    "image" : "images/oranges.png"
+  },
+  "10020" : {
+    "name" : "Арбузы",
+    "cost" : 15,
+    "description" : "Свежие, сочные",
+    "image" : "images/watermelons.png"
+  },
+  "10030" : {
+    "name" : "Черешня",
+    "cost" : 100,
+    "description" : "Сладкая",
+    "image" : "images/cherry.png"
+  },
+  "10040" : {
+    "name" : "Бананы",
+    "cost" : 27,
+    "description" : "Свежие, вкусные",
+    "image" : "images/bananas.png"
+  },
+  "10001" : {
+    "name" : "Клубника",
+    "cost" : 45,
+    "description" : "Вкусная, спелая, сочная",
+    "image" : "images/strawberry.png"
+  },
+  "10012" : {
+    "name" : "Дыня",
+    "cost" : 33,
+    "description" : "Сладкая, свежая",
+    "image" : "images/melon.png"
+  },
+  "10023" : {
+    "name" : "Лимоны",
+    "cost" : 17,
+    "description" : "Свежий урожай",
+    "image" : "images/lemon.png"
+  },
+  "10034" : {
+    "name" : "Киви",
+    "cost" : 36,
+    "description" : "Сладкие, свежие, сочные",
+    "image" : "images/qiwi.png"
+  },
+  "10045" : {
+    "name" : "Кокосы",
+    "cost" : 37,
+    "description" : "Сочные, вкусные",
+    "image" : "images/coconuts.png"
+  }
+}
